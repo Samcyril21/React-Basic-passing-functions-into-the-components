@@ -4,7 +4,7 @@ import './index.css';
 
 export default function Click(props) {
   const add = function () {
-    alert('React is a library for javascript');
+    alert('React is a library for javascript')
   };
   return (
     <div id="click">
