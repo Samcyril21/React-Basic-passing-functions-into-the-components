@@ -2,7 +2,7 @@ import React from 'react';
 
 import './index.css';
 
-export default function Click(props) {
+export default function Click() {
   const add = function () {
     alert('React is a library for javascript')
   };
